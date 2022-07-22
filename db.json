@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Food Shopping",
+      "day": "May 7th at 12:30pm",
+      "reminder": true
+    },
+    {
+      "text": "New task from ken",
+      "day": "July 22nd at 10:47AM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Another task",
+      "day": "July 22nd at 10:48AM",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
